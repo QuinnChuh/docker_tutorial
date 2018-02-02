@@ -139,18 +139,32 @@ docker push learn/ping
 
 ## 相关的镜像链接
 
-[国内高校开源镜像站友情链接](http://mirrors.hust.edu.cn/links.html) 
-清华大学开源镜像站 
-<http://mirror.tuna.tsinghua.edu.cn/> 
-中国科学技术大学开源镜像站 
-[http://mirrors.ustc.edu.cn](http://mirrors.ustc.edu.cn/) 
-北京交通大学开源镜像站 
-<http://mirror.bjtu.edu.cn/cn/> 
-兰州大学开源镜像站 
-<http://mirror.lzu.edu.cn/> 
-厦门大学开源镜像站 
-<http://mirrors.xmu.edu.cn/> 
-上海交通大学开源镜像站 
-<http://ftp.sjtu.edu.cn/> 
-东软信息学院开源镜像站 
-<http://mirrors.neusoft.edu.cn/>
+国内高校开源镜像站友情链接(http://mirrors.hust.edu.cn/links.html) 
+
+- 清华大学开源镜像站 
+
+  <http://mirror.tuna.tsinghua.edu.cn/> 
+
+- 中国科学技术大学开源镜像站 
+
+  [http://mirrors.ustc.edu.cn](http://mirrors.ustc.edu.cn/) 
+
+- 北京交通大学开源镜像站 
+
+  <http://mirror.bjtu.edu.cn/cn/> 
+
+- 兰州大学开源镜像站 
+
+  <http://mirror.lzu.edu.cn/> 
+
+- 厦门大学开源镜像站 
+
+  <http://mirrors.xmu.edu.cn/> 
+
+- 上海交通大学开源镜像站 
+
+  <http://ftp.sjtu.edu.cn/> 
+
+- 东软信息学院开源镜像站 
+
+  <http://mirrors.neusoft.edu.cn/>
