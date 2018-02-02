@@ -41,7 +41,7 @@ sudo apt install docker.io
 
 我的docker版本为
 
-![](image)
+![](https://github.com/QuinnChuh/docker_tutorial/blob/master/imgs/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180202110044.jpg?raw=true)
 
 ### 3.搜索可用的docker镜像
 
