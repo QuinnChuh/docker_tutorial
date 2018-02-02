@@ -4,8 +4,6 @@
 
 > 本入门教程引自[docker中文手册](http://www.docker.org.cn/book/docker/what-is-docker-16.html)
 
-[TOC]
-
 ### 1.什么是docker
 
 #### 1.1 简介
